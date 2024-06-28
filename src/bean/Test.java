@@ -26,7 +26,7 @@ public class Test implements Serializable{
 	public String getSchool_CD(){
 		return school_cd;
 	}
-	public void setScool_CD(String school_cd){
+	public void setSchool_CD(String school_cd){
 		this.school_cd = school_cd;
 	}
 	public int getNo(){
